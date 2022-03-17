@@ -1,0 +1,82 @@
+
+
+
+body{
+    font-family:'Roboto', sans-serif;
+    background-color: #0c1130
+}
+
+#navbarSupportedContent a:hover
+{
+    background-color: #e0e8e9;
+}
+/* navbar css starts here  */
+.bg-light{
+    background-color: #fafafa!important;
+}
+
+.navbar-brand{
+    font-family: 'Fredoka', sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: rgb(17, 0, 255)!important;
+}
+
+.nav-link{
+    color: #000000!important;
+    font-family: 'Noto Sans JP', sans-serif;
+    padding-right: 30px !important;
+}
+
+
+
+.nav-link:hover{
+    background-color: rgb(148, 168, 255) !important;
+}
+/* navbar css ends here  */
+
+.my-info{
+    padding: 2rem 5rem;
+}
+#table_topic
+{
+    background-color: #42d16d;
+}
+.table-danger, .table-danger>td, .table-danger>th {
+    background-color: rgb(153, 116, 24);
+}
+.table-hover .table-danger:hover>th {
+    background-color: rgb(110, 85, 20);
+}
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color:#57837f!important;
+    color: rgb(247, 243, 243)!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(148, 168, 255) !important;
+}
+
+.table-light, .table-light>td, .table-light>th {
+    background-color: rgb(190, 224, 255);
+}
+.table-hover .table-light:hover>td{
+    background-color: #7d74ff;
+}
+
+#send{
+    background-color: rgb(17, 0, 255)!important; ;
+}
+
+#trans{
+    background-color: rgb(17, 0, 255)!important; ;
+}
+
+.table thead th {
+    color: #000000!important;
+    background-color: #429dd1!important;
+}
